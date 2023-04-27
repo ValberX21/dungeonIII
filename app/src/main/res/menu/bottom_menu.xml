@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/icon_home"/>
+
+    <item android:title="List"
+        android:id="@+id/list"
+        android:icon="@drawable/list_icon"/>
+
+    <item android:title="Cloud"
+        android:id="@+id/list_card"
+        android:icon="@drawable/icon_cloud"/>
+
+</menu>
